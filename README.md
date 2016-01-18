@@ -7,7 +7,7 @@ symlink it into ~/.nixpkgs/config.Nix
 ```sh
 $ cd $HOME
 $ mkdir easybuild
-$ nix-env -i -A fhsEasyBuild
+$ nix-env -i fhsEasyBuild
 $ fhsEasyBuild
 ```
 
